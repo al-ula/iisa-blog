@@ -20,6 +20,7 @@ export default function Nav() {
             [
               ["/", "Home"],
               ["/about", "About"],
+              ["/editor", "Editor"],
             ],
             active,
           )}
