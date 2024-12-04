@@ -39,7 +39,8 @@
     "node": ">=18"
   },
   "trustedDependencies": [
-    "@parcel/watcher"
+    "@parcel/watcher",
+    "esbuild"
   ],
   "devDependencies": {
     "@catppuccin/daisyui": "^1.2.1",
